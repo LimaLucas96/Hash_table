@@ -1,0 +1,4 @@
+/Users/macosx/desktop/LP1/hash_table/teste/build/CMakeFiles/rebuild_cache.dir
+/Users/macosx/desktop/LP1/hash_table/teste/build/CMakeFiles/edit_cache.dir
+/Users/macosx/desktop/LP1/hash_table/teste/build/CMakeFiles/driver_hash.dir
+/Users/macosx/desktop/LP1/hash_table/teste/build/CMakeFiles/run_tests.dir

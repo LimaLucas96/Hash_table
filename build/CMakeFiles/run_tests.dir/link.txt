@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/run_tests.dir/src/account.cpp.o CMakeFiles/run_tests.dir/test/main.cpp.o  -o run_tests /usr/local/lib/libgtest.a -lpthread 
